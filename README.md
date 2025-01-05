@@ -58,4 +58,3 @@ A acurácia foi calculada para medir a taxa de acertos do modelo. Matrizes de co
 
 Este projeto oferece uma análise abrangente da previsão de doenças cardiológicas usando diferentes algoritmos de machine learning e demonstra como o pré-processamento adequado pode impactar o desempenho dos modelos.
 
-***Em breve postarei a conclusão***
